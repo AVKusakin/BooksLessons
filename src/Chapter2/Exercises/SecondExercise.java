@@ -7,6 +7,7 @@ package Chapter2.Exercises;
  * использовать. Скомпилируйте программу с помощью javac и запустите на исполнение из java. Если вы используете не
  * JDK, а другую среду разработки программ, выясните, как в ней компилируются и запускаются программы.
  * @see Chapter2.Examples.HelloDate
+ * date: 15.02.2020
  */
 public class SecondExercise {
     public static void main(String[] args) {

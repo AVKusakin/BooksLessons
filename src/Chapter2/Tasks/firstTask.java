@@ -1,4 +1,4 @@
-package ThinkingInJava.Chapter2.Tasks;
+package Chapter2.Tasks;
 
 /**
  * 1. Создайте класс с полями int и char, которые не инициализируются в программе.

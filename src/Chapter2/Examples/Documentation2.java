@@ -1,4 +1,4 @@
-package ThinkingInJava.Chapter2.Examples;
+package Chapter2.Examples;
 
 //:object/Documentation2.java
 /**

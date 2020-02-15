@@ -1,4 +1,4 @@
-package Chapter2.Tasks;
+package Chapter2.Exercises;
 
 /**
  * 2. На основании примера HelloDate.java в этой главе напишите программу "Привет, мир", которая просто выводит
@@ -6,8 +6,9 @@ package Chapter2.Tasks;
  * Не забудьте объявить его статическим (static) и включите список аргументов, даже если вы не будете его
  * использовать. Скомпилируйте программу с помощью javac и запустите на исполнение из java. Если вы используете не
  * JDK, а другую среду разработки программ, выясните, как в ней компилируются и запускаются программы.
+ * @see Chapter2.Examples.HelloDate
  */
-public class secondTask {
+public class SecondExercise {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }

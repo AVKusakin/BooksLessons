@@ -6,13 +6,11 @@ import static net.mindview.util.Print.*;
  * 2. Создайте класс с полем типа float. Используйте его для демонстрации совмещения имен.
  * date: 06.09.2020
  */
-
 class AliasingDemonstration{
     float variable;
 }
 
 public class SecondExcercise {
-
     public static void main(String[] args) {
         AliasingDemonstration a1 = new AliasingDemonstration();
         AliasingDemonstration a2 = new AliasingDemonstration();

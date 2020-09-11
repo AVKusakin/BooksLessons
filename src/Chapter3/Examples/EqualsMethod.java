@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/EqualsMethod.java
+//: operators/EqualsMethod.java
 
 public class EqualsMethod {
     public static void main(String[] args) {

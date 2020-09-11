@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/ShortCircuit.java
+//: operators/ShortCircuit.java
 // Демонстрация ускоренного вычсиления
 // при использовании логических операторов.
 import static net.mindview.util.Print.*;

@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/Literals.java
+//: operators/Literals.java
 import static net.mindview.util.Print.*;
 
 public class Literals {

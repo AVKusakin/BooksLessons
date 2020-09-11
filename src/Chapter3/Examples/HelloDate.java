@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/HelloDate.java
+//: operators/HelloDate.java
 import java.util.*;
 import static net.mindview.util.Print.*;
 

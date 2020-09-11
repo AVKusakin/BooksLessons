@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/Bool.java
+//: operators/Bool.java
 // Операторы сравнений и логические операторы.
 import java.util.*;
 import static net.mindview.util.Print.*;

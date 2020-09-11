@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/BitManipulation.java
+//: operators/BitManipulation.java
 // Использование поразрядных операторов.
 import java.util.*;
 import static net.mindview.util.Print.*;

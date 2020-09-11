@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/Precedence.java
+//: operators/Precedence.java
 
 public class Precedence {
 

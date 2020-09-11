@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/HelloDate.java
+//: operators/HelloDate.java
 // Передача объектов методам может работать
 // не так, как вы привыкли.
 import static net.mindview.util.Print.print;

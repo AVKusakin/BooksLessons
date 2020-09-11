@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/URShift.java
+//: operators/URShift.java
 // Проверка беззнакового сдвига вправо.
 import static net.mindview.util.Print.*;
 

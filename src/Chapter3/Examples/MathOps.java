@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/MathOps.java
+//: operators/MathOps.java
 // Демонстрация математических операций.
 import java.util.*;
 import static net.mindview.util.Print.*;

@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/AutoInc.java
+//: operators/AutoInc.java
 import static net.mindview.util.Print.*;
 
 public class AutoInc {

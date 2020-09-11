@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/Assignment.java
+//: operators/Assignment.java
 // Присваивание объектов имеет ряд хиростей.
 import static net.mindview.util.Print.*;
 

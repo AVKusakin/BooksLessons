@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/Exponents.java
+//: operators/Exponents.java
 // "e" означает "10 в степени".
 
 public class Exponents {

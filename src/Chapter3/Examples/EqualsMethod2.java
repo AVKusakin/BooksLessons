@@ -1,6 +1,6 @@
 package Chapter3.Examples;
 
-//:operators/EqualsMethod2.java
+//: operators/EqualsMethod2.java
 // Метод equals по умолчанию не сравнивает содержимое
 
 class Value {

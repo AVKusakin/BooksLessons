@@ -5,6 +5,7 @@ import static net.mindview.util.Print.*;
 /**
  * 5. Повторите упражнение 10 из предыдущей главы, используя тернарный оператор и поразрядную проверку для вывода
  * нулей и единиц (вместо вызова метода Integer.toBinaryString()).
+* @see Chapter3.Exercises.TenthExercise
  * date: 12.09.2020
  */
 public class FifthExercise {

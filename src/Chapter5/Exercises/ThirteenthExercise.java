@@ -1,6 +1,6 @@
 package Chapter5.Exercises;
 
-import static net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
 
 /**
  * 13. Проверьте истинность следующих утверждений:

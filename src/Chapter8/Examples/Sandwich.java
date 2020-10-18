@@ -2,7 +2,6 @@ package Chapter8.Examples;
 
 //: polymorphism/Sandwich.java
 // Порядок вызова конструкторов.
-import Chapter5.Examples.Leaf;
 import static net.mindview.util.Print.*;
 
 class Meal {

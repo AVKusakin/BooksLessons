@@ -1,5 +1,6 @@
 package Chapter9.Examples.interfaceprocessor;
 
+//: interfaces/interfaceprocessor/StringProcessor.java
 import java.util.*;
 
 public abstract class StringProcessor implements Processor {

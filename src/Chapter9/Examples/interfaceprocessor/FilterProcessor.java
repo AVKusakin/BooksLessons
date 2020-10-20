@@ -1,5 +1,6 @@
 package Chapter9.Examples.interfaceprocessor;
 
+//: interfaces/interfaceprocessor/FilterProcessor.java
 import Chapter9.Examples.filters.*;
 
 class FilterAdapter implements Processor {

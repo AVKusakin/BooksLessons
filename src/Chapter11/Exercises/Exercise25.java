@@ -1,8 +1,7 @@
 package Chapter11.Exercises;
 
-import net.mindview.util.TextFile;
-
 import java.util.*;
+import net.mindview.util.*;
 
 /**
  * 25. Создайте контейнер Map<String,ArrayList<Integer>>. Используя net.mindview.TextFile, откройте текстовый файл и
@@ -19,7 +18,10 @@ public class Exercise25 {
 
         for (int i = 0; i < words.size(); i++) {
             ArrayList<Integer> position = new ArrayList<Integer>(Collections.nCopies(words.size(), 0));
-            position.set(i, 1);
+            for (int j = 0; j < words.size(); j++) {
+                if (words.get(j).equals(words.get(i)))
+                    position.set(j, 1);
+            }
             map.put(words.get(i), position);
         }
 

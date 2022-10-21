@@ -1,9 +1,6 @@
 package Chapter12.Exercises;
 
-import Chapter12.Examples.OnOffException1;
-import Chapter12.Examples.OnOffException2;
-import Chapter12.Examples.OnOffSwitch;
-import Chapter12.Examples.Switch;
+import Chapter12.Examples.*;
 
 /**
  * 15. Продемонстрируйте, что программа WithFinally.java работает корректно при возбуждении RuntimeException внутри блока try.

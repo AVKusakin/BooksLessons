@@ -1,7 +1,6 @@
 package Chapter14.Exercises;
 
-import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.*;
 
 /**
  * 9. Измените предыдущее упражнение так, чтобы в нем использовался метод Class.getDeclaredFields() для вывода информации
